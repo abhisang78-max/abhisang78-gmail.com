@@ -1,0 +1,6 @@
+{
+  "name": "DODO IMPEX 1689",
+  "description": "Modern international e-commerce ecosystem, curated direct-import lifestyle, electronics & luxury accessories for India and the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
